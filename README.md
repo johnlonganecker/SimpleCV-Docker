@@ -1,5 +1,10 @@
 # SimpleCV Docker
 
+## Docker Hub
+```
+docker pull johnlonganecker/simplecv
+```
+
 ## Create Image
 ```
 docker build -t simplecv .
